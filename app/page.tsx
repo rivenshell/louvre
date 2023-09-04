@@ -1,9 +1,6 @@
 "use client"
 import React from "react"
 import NavbarSimple from "./components/NavbarSimple"
-import SwitchColors from "./components/SwitchColors"
-
-import { Typography } from "@material-tailwind/react"
 
 export default function Home() {
   return (
@@ -31,10 +28,9 @@ export default function Home() {
           <br />
           <li>
             <strong>12th Century: </strong>The history of the Louvre dates back
-            to the late 12th century when King Philip II (Philip Augustus) built
-            a fortified royal palace called the Louvre Castle. It was initially
-            constructed as a defensive fortress to protect Paris from Viking
-            raids.
+            to the late 12th century when King Philip II built a fortified royal
+            palace called the Louvre Castle. It was initially constructed as a
+            defensive fortress to protect Paris from Viking raids.
           </li>
           <li>
             <strong>14th Century: </strong>In the 14th century, Charles V
